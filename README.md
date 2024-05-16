@@ -1,1 +1,1 @@
-The “save the planet ” app integrates urban structures with plants and provides tips for simple and sustainable living. It offers a variety of plant species and care information, as well as environmental tips. Users can browse and purchase plants through a user-friendly interface. The goal is to promote environmental awareness and help users make a positive impact on their surroundings.
+
